@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Deserción y Debido Proceso Formativo",
+  "description": "Sistema institucional para la gestión, radicación con carga de archivos PDF y trámite de quejas e informes de deserción cumpliendo el debido proceso formativo por fases y roles: Instructor, Aprendiz, Comité y Subdirector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
